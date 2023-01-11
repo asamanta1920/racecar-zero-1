@@ -116,8 +116,8 @@ resolution = (320, 240)
 
 # HSV values for orange
 # TODO: Change the values in the HSV lower bound and upper bound based on the HSV select for your cone
-ORANGE_HSV_LOWER_BOUND = np.array([0, 0, 0])
-ORANGE_HSV_UPPER_BOUND = np.array([179, 255, 255])
+ORANGE_HSV_LOWER_BOUND = np.array([0, 108, 188])
+ORANGE_HSV_UPPER_BOUND = np.array([179, 229, 255])
 
 NORMAL_DRIVE_SPEED = 50
 
